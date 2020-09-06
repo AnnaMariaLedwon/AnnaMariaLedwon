@@ -13,8 +13,8 @@
 -->
 I work as an Civil Engineer on a daily basis, but in my free time I create my first projects in Machine Learning and Data Science.
 
-💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-🤝 Open for collaborations in deep learning, analytics and data science.
-😊 Willing to contribute in opensource development projects.
-👍 Looking for opportunities to join as an intern/full time in deep learning or data science fields.
+- 💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 😊 Willing to contribute in opensource development projects.
+- 👍 Looking for opportunities to join as an intern/full time in deep learning or data science fields.
 
