@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi, hey, hello 👋 I'm Anna and welcome on my GitHub!
 
 <!--
 **AnnaMariaLedwon/AnnaMariaLedwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I work as an engineer on a daily basis, but in my free time I create my first projects in Machine Learning and Data Science.
+
+💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+🤝 Open for collaborations in deep learning, analytics and data science.
+😊 Willing to contribute in opensource development projects.
+👍 Looking for opportunities to join as an intern/full time in deep learning or data science fields.
+
