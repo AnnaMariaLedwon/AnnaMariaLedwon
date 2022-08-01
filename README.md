@@ -11,9 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-In my free time I create my first projects in Machine Learning and Data Science.
+In my free time I create my projects in machine learning using biology/genomics/oncology data.
 
-- 💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- 💻 On a daily basis I work as a bioinformatist in the Polish biotechnology company Ryvu Therapeutics in Krakow.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in deep learning or data science fields.
