@@ -13,7 +13,7 @@
 -->
 In my free time I create my projects in machine learning using biology/genomics/oncology data.
 
-- 💻 On a daily basis I work as a bioinformatist in the Polish biotechnology company Ryvu Therapeutics in Krakow.
+- 💻 On a daily basis I work as a bioinformatician and scientist II in the Polish biotechnology company Ryvu Therapeutics in Krakow.
 - 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in deep learning or data science fields.
