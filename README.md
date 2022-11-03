@@ -11,10 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-In my free time I create my projects in machine learning using biology/genomics/oncology data.
 
-- 💻 On a daily basis I work as a bioinformatician and scientist II in the Polish biotechnology company Ryvu Therapeutics in Krakow.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning or data science fields.
-
+💻 In my free time I create my projects in machine learning using biology/genomics/oncology data.
+🔭 Additionally, I work as a Research Assistant professor at the collegium medicum of the Jagiellonian University.
+✨ I specialize in Next-Generation Sequencing Analysis: WES, WGS, RNAseq, CNV.
+🌱 I am currently learning to automate bioinformatics pipelines using Nextflow technology.
+🤔 I have a few R Shiny applications and scripts for automating using bash and R is my everyday life.
+⚡ Fun fact about me: cat and travel lover, indian cuisine gourmet.
