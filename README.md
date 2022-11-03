@@ -12,9 +12,9 @@
 - ⚡ Fun fact: ...
 -->
 
-💻 In my free time I create my projects in machine learning using biology/genomics/oncology data.
-🔭 Additionally, I work as a Research Assistant professor at the collegium medicum of the Jagiellonian University.
-✨ I specialize in Next-Generation Sequencing Analysis: WES, WGS, RNAseq, CNV.
-🌱 I am currently learning to automate bioinformatics pipelines using Nextflow technology.
-🤔 I have a few R Shiny applications and scripts for automating using bash and R is my everyday life.
-⚡ Fun fact about me: cat and travel lover, indian cuisine gourmet.
+💻 In my free time I create my projects in machine learning using biology/genomics/oncology data. <br>
+🔭 Additionally, I work as a Research Assistant professor at the collegium medicum of the Jagiellonian University. <br>
+✨ I specialize in Next-Generation Sequencing Analysis: WES, WGS, RNAseq, CNV. <br>
+🌱 I am currently learning to automate bioinformatics pipelines using Nextflow technology. <br>
+🤔 I have a few R Shiny applications and scripts for automating using bash and R is my everyday life. <br>
+⚡ Fun fact about me: cat and travel lover, indian cuisine gourmet. <br>
