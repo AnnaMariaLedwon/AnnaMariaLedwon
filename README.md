@@ -11,10 +11,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 💻 On a daily basis I work as a Bioinformatician & Scientist II at Ryvu Therapeutics in Krakow. <br>
 🔭 Additionally, I work as a Research Assistant at the Jagiellonian University. <br>
 ✨ I specialize in Next-Generation Sequencing Analysis: WES, WGS, RNAseq, CNV. <br>
 🌱 I am currently learning to automate bioinformatics pipelines using Nextflow technology. <br>
 🤔 I have a few R Shiny applications and scripts for automating using bash and R is my everyday life. <br>
 ⚡ Fun fact about me: cat and travel lover, indian cuisine gourmet. <br>
+-->
